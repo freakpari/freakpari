@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @freakpari
 - 👀 I’m interested in web
-- 🌱 I’m currently learning front end..
+- 🌱 I’m currently learning react.js
 
 <!---
 freakpari/freakpari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
