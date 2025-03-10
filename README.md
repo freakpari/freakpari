@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @freakpari
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning Django
-- things i know : c++,react.js,node.js,mongoDB
+- things i know : c++,react.js,typescript
 
 <!---
 freakpari/freakpari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
