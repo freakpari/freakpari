@@ -21,7 +21,6 @@ I love turning complex problems into elegant, user-friendly interfaces, and I'm 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 ## 📊 GitHub Stats
