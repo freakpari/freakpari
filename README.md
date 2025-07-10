@@ -1,9 +1,6 @@
 ## 👋 Hi there! I'm Parivash
 
 I'm a passionate developer with a interest in **AI** and a solid background in **React** and modern front-end technologies.
-
-I love turning complex problems into elegant, user-friendly interfaces, and I'm always eager to learn new tools and frameworks that push the boundaries of what's possible on the web.
-
 🚀 Currently exploring the world of AI, machine learning, and data-driven applications.
 
 🌱 Always learning, always coding — and always up for a challenge!
