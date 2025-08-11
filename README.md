@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Parivash
+## 👋 Hi there! I'm Pari
 
 I'm a  developer with a background in **React**  and front-end technologies.
 
